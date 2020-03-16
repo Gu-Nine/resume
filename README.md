@@ -25,7 +25,7 @@ Github : https://github.com/aiden-dev
 트루모바일(폐업)
 - 2009/10 ~ 2012/04
 
-## 보유기술 사용가능 라이브러리
+## 보유기술 / 사용가능 라이브러리
 - Android (Java)
 - Firebase (Analytics,Performance,Crashlytics), GoogleAnalytics
 - Glide, Okhttp3, Databinding, Volley, ACRA, Lottie,  
