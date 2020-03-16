@@ -129,7 +129,7 @@ Github : https://github.com/hgpark09
 - 사용기술 : Android(Java)
 
 
-###[소프트뱅크 단말기 탑재 Launcher] 
+### [소프트뱅크 단말기 탑재 Launcher] 
 - 기간 : 2012/05 ~ 2012/07
 - 소속 : 아크로디아 코리아
 - 역할 : SoftBankMobile 안드로이드 단말 기본탑제 Launcher 개발
