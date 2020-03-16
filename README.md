@@ -88,7 +88,7 @@ Github : https://github.com/aiden-dev
 - 역할 : 부산은행 스마트뱅킹(개인/기업/특화앱) Android App 개발
 - 사용기술 : Android(Java)
 
-<img src="images/bnk/bnkbiz.jpg" width="140"/><img src="images/bnk/bnkcam1.jpg" width="140"/><img src="images/bnk/bnkcam2.jpg" width="140"/><img src="images/bnk/bnkgood1.jpg" width="140"/><img src="images/bnk/bnkgood2.jpg" width="140"/>
+<img src="images/bnk/bnkbiz.png" width="140"/><img src="images/bnk/bnkcam1.jpg" width="140"/><img src="images/bnk/bnkcam2.jpg" width="140"/><img src="images/bnk/bnkgood1.jpg" width="140"/><img src="images/bnk/bnkgood2.jpg" width="140"/>
 
 ### [한국투자저축은행 모바일 앱 구축](https://play.google.com/store/apps/details?id=co.kisb.banking)
 - 기간 : 2014/03 ~ 2014/07
