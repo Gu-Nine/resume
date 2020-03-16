@@ -64,7 +64,7 @@ Github : https://github.com/aiden-dev
 - 역할 : Android 수협 스마트폰뱅킹 독자앱 및 기업뱅킹 구축 App 프로토 Type 개발
 - 사용기술 : Android(Java)
 
-<img src="images/sh/sh1.png" width="140"/><img src="images/sh/sh2.png" width="140"/><img src="images/sh/sh3.png" width="140"/><img src="images/sh/sh4.png" width="140"/>
+<img src="images/sh/sh1.jpg" width="140"/><img src="images/sh/sh2.jpg" width="140"/><img src="images/sh/sh3.jpg" width="140"/><img src="images/sh/sh4.jpg" width="140"/>
 
 ### [웰컴저축은행 스마트뱅킹 운영/유지보수](https://play.google.com/store/apps/details?id=kr.co.welcomebank.omb)
 - 기간 : 2015/12 ~ 2016/09
@@ -88,7 +88,7 @@ Github : https://github.com/aiden-dev
 - 역할 : 부산은행 스마트뱅킹(개인/기업/특화앱) Android App 개발
 - 사용기술 : Android(Java)
 
-<img src="images/bnk/bnkbiz.png" width="140"/><img src="images/bnk/bnkcam1.png" width="140"/><img src="images/bnk/bnkcam2.png" width="140"/><img src="images/bnk/bnkgood1.png" width="140"/><img src="images/bnk/bnkgood2.png" width="140"/>
+<img src="images/bnk/bnkbiz.jpg" width="140"/><img src="images/bnk/bnkcam1.jpg" width="140"/><img src="images/bnk/bnkcam2.jpg" width="140"/><img src="images/bnk/bnkgood1.jpg" width="140"/><img src="images/bnk/bnkgood2.jpg" width="140"/>
 
 ### [한국투자저축은행 모바일 앱 구축](https://play.google.com/store/apps/details?id=co.kisb.banking)
 - 기간 : 2014/03 ~ 2014/07
@@ -104,7 +104,7 @@ Github : https://github.com/aiden-dev
 - 역할 : 저축은행중앙회 스마트뱅킹 Android App 운영/유지보수
 - 사용기술 : Android(Java)
 
-<img src="images/sb/sb1.png" width="140"/><img src="images/sb/sb2.png" width="140"/><img src="images/sb/sb3.png" width="140"/><img src="images/sb/sb8.png" width="140"/>
+<img src="images/sb/sb1.jpg" width="140"/><img src="images/sb/sb2.jpg" width="140"/><img src="images/sb/sb3.jpg" width="140"/><img src="images/sb/sb8.jpg" width="140"/>
 
 ### [산업은행 모바일뱅킹 재구축](https://play.google.com/store/apps/details?id=co.kr.kdb.android.smartkdb)
 - 기간 : 2013/07 ~ 2013/11
