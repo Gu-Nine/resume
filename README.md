@@ -6,7 +6,7 @@ Facebook : https://www.facebook.com/phg119
 
 LinkedIn : https://www.linkedin.com/in/hgpark09
 
-Github : https://github.com/aiden-dev 
+Github : https://github.com/hgpark09
 
 ## 경력
 
