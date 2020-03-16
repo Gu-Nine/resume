@@ -41,6 +41,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 케이뱅크은행
 - 역할 : 케이뱅크 개인/기업 스마트뱅킹 (Android) 운영/유지보수
 - 사용기술 : Android(Java)
+
 <img src="/images/kbank/person1.png" width="140"/><img src="images/kbank/person2.png" width="140"/><img src="images/kbank/person3.png" width="140"/><img src="images/kbank/person4.png" width="140"/><img src="images/kbank/person5.png" width="140"/>
 
 ### [케이뱅크 기업 스마트뱅킹](https://play.google.com/store/apps/details?id=com.kbankwith.cbzbank)
@@ -48,6 +49,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 케이뱅크은행
 - 역할 : 케이뱅크 기업 스마트뱅킹 구축 매니징 (Android/IOS 아키텍쳐 설계)
 - 사용기술 : Android(Java),IOS(Objective-C)
+
 <img src="images/kbank/biz1.png" width="140"/><img src="images/kbank/biz2.png" width="140"/><img src="images/kbank/biz3.png" width="140"/><img src="images/kbank/biz4.png" width="140"/><img src="images/kbank/biz5.png" width="140"/>
 
 ### 농협 임직원용 복지카드 업무
@@ -61,6 +63,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 이니텍
 - 역할 : Android 수협 스마트폰뱅킹 독자앱 및 기업뱅킹 구축 App 프로토 Type 개발
 - 사용기술 : Android(Java)
+
 <img src="images/sh/sh1.png" width="140"/><img src="images/sh/sh2.png" width="140"/><img src="images/sh/sh3.png" width="140"/><img src="images/sh/sh4.png" width="140"/>
 
 ### [웰컴저축은행 스마트뱅킹 운영/유지보수](https://play.google.com/store/apps/details?id=kr.co.welcomebank.omb)
@@ -68,6 +71,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 이니텍
 - 역할 : 웰컴저축은행 스마트뱅킹 Android App 운영/유지보수
 - 사용기술 : Android(Java)
+
 <img src="images/wc/wc1.png" width="140"/><img src="images/wc/wc2.png" width="140"/><img src="images/wc/wc3.png" width="140"/><img src="images/wc/wc4.png" width="140"/>
 
 ### [삼성생명 모바일 창구 리뉴얼](https://play.google.com/store/apps/details?id=com.cs.android.SlifeCustomer)
@@ -75,6 +79,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 이니텍
 - 역할 : 삼성생명 모바일창구 Android App 개발
 - 사용기술 : Android(Java)
+
 <img src="images/samsung/samsung1.png" width="140"/><img src="images/samsung/samsung2.png" width="140"/><img src="images/samsung/samsung3.png" width="140"/>
 
 ### [부산은행 신인터넷뱅킹 재구축](https://play.google.com/store/apps/details?id=kr.co.busanbank.mbp)
@@ -82,6 +87,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 이니텍
 - 역할 : 부산은행 스마트뱅킹(개인/기업/특화앱) Android App 개발
 - 사용기술 : Android(Java)
+
 <img src="images/bnk/bnkbiz.png" width="140"/><img src="images/bnk/bnkcam1.png" width="140"/><img src="images/bnk/bnkcam2.png" width="140"/><img src="images/bnk/bnkgood1.png" width="140"/><img src="images/bnk/bnkgood2.png" width="140"/>
 
 ### [한국투자저축은행 모바일 앱 구축](https://play.google.com/store/apps/details?id=co.kisb.banking)
@@ -89,6 +95,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 이니텍
 - 역할 : 한국투자저축은행 스마트뱅킹 Android App 개발
 - 사용기술 : Android(Java)
+
 <img src="images/ht/ht1.png" width="140"/><img src="images/ht/ht2.png" width="140"/><img src="images/ht/ht3.png" width="140"/><img src="images/ht/ht4.png" width="140"/>
 
 ### [저축은행중앙회 스마트뱅킹 운영/유지보수](https://play.google.com/store/apps/details?id=kr.or.sbbank.plus)
@@ -96,6 +103,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 이니텍
 - 역할 : 저축은행중앙회 스마트뱅킹 Android App 운영/유지보수
 - 사용기술 : Android(Java)
+
 <img src="images/sb/sb1.png" width="140"/><img src="images/sb/sb2.png" width="140"/><img src="images/sb/sb3.png" width="140"/><img src="images/sb/sb8.png" width="140"/>
 
 ### [산업은행 모바일뱅킹 재구축](https://play.google.com/store/apps/details?id=co.kr.kdb.android.smartkdb)
@@ -103,6 +111,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 이니텍
 - 역할 : 산업은행 스마트뱅킹 Android App 개발 / Testing 지원
 - 사용기술 : Android(Java)
+
 <img src="images/kdb/kdb1.png" width="140"/><img src="images/kdb/kdb2.png" width="140"/><img src="images/kdb/kdb3.png" width="140"/><img src="images/kdb/kdb4.png" width="140"/><img src="images/kdb/kdb5.png" width="140"/>
 
 ### [우리은행 글로벌 스마트뱅킹](https://play.google.com/store/apps/details?id=com.wooribank.smlg_android)
@@ -110,6 +119,7 @@ Github : https://github.com/aiden-dev
 - 소속 : 이니텍
 - 역할 : 외국인을 위한 글로벌 스마트뱅킹 Android App 개발 / Testing 지원
 - 사용기술 : Android(Java)
+
 <img src="images/wrg/wrg1.png" width="140"/><img src="images/wrg/wrg2.png" width="140"/><img src="images/wrg/wrg3.png" width="140"/><img src="images/wrg/wrg4.png" width="140"/><img src="images/wrg/wrg5.png" width="140"/>
 
 ### [Tmap 4.0 Update](https://play.google.com/store/apps/details?id=com.skt.tmap.ku)
